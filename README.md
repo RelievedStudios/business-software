@@ -1,3 +1,3 @@
-# Buisness software
+# Business software
 
-Go to the [wiki](https://github.com/RelievedStudios/buisness-software/wiki) to see all the info!
+Go to the [wiki](https://github.com/RelievedStudios/business-software/wiki) to see all the info!
